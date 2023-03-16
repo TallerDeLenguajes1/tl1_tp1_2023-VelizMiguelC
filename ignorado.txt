@@ -1,3 +1,4 @@
 ignorado.txt
 como estas
 colo
+colo
